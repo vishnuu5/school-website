@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -11,6 +11,56 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+# Springdale Public School Website
+
+This is a React-based website for Springdale Public School.
+
+## Features
+
+- Home Page
+- About Us
+- Academics
+- Admissions
+- Faculty
+- Students
+- Gallery
+- Contact Us
+
+## Technologies Used
+
+- React.js
+- React Router
+- Tailwind CSS
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/school-website.git
+
+
+
+### Deploy to Vercel
+
+1. Go to [Vercel](https://vercel.com/) and log in or sign up.
+2. Click `New Project` and then `Import Git Repository`.
+3. Select your `school-website` repository.
+4. Click `Import` and then `Deploy`.
+
+Vercel will automatically deploy your project and provide you with a URL.
+
+### Final Step: Update README with Deployment Link
+
+After your project is successfully deployed, update the deployment link in your `README.md` file with the actual URL provided by Vercel.
+
+### Example README Update
+
+```md
+## Deployment
+
+The website is deployed on Vercel and can be accessed [here](https://your-vercel-url.vercel.app).
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
